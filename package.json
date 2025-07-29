@@ -41,5 +41,5 @@
   ],
   "author": "Logan Edwards",
   "main": "postcss.config.js",
-  "license": "ISC"
+  "license": "MIT"
 }
