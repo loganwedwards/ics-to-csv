@@ -1,5 +1,8 @@
 # ICS to CSV Converter
 
+<img width="952" height="719" alt="image" src="https://github.com/user-attachments/assets/8933ae32-1945-45dd-91ad-d940da621ab0" />
+
+
 🔒 **Privacy-First Calendar Converter** - Convert your ICS calendar files to CSV format with complete privacy protection.
 
 ## 🛡️ Privacy & Security
