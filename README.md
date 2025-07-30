@@ -100,7 +100,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
+
+## AI Disclaimer
+
+This project was bootstrapped and built with Claude by Anthropic.
 
 ## 🔍 Privacy Notice
 
