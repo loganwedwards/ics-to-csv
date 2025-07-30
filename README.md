@@ -11,7 +11,7 @@
 
 - ✅ **100% Client-Side Processing** - All conversion happens locally in your browser
 - ✅ **No Server Uploads** - Your calendar data stays on your device
-- ✅ **No Data Collection** - We don't track, store, or analyze your information
+- ✅ **No Data Collection** - It won't track, store, or analyze your information
 - ✅ **No Network Requests** - Works completely offline after initial load
 - ✅ **Open Source** - Full transparency in how your data is handled
 
